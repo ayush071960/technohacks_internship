@@ -1,0 +1,8 @@
+TECHNOHACKS
+Exciting Web Development Internship Projects
+
+Task 1 - Dynamic Landing Page Creation: Craft an engaging landing page using HTML, CSS, and JavaScript. Ensure it captures attention with sleek design elements, such as smooth animations, transitions, and responsive layouts. Your page should include a captivating header, informative content sections, and a footer that enhances user engagement through interactive features like social media integration or subscription forms.
+
+Task 3 - Innovative Calculator Application: Develop a modern calculator app using HTML, CSS, and JavaScript, packed with advanced functionalities. Incorporate features such as a sleek user interface with customizable themes, support for basic and scientific calculations, and intuitive keyboard or touch inputs. Enhance user experience by adding real-time result updates and error handling mechanisms to ensure accuracy.
+
+Task 4 - Next-Level Currency Converter: Build a robust currency converter application using HTML, CSS, and JavaScript, focusing on usability and performance. Utilize APIs to fetch up-to-date exchange rates and implement a user-friendly interface with intuitive input fields for currency conversion. Enhance functionality with features like auto-complete suggestions for currency codes, dynamic charting to visualize exchange rate trends, and the ability to save favorite currency pairs for quick access.
